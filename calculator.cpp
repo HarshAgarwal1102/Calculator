@@ -6,7 +6,7 @@ void addition()
     int n, k=0;
 	double number;
     double total=0;
-    cout<<"\n Enter how many number you want to Add:- ";
+    cout<<"\n How many numbers you want to Add:- ";
     cin>>n;
     cout<<"\n Please enter "<<n<<" numbers one by one:- ";
     while(k<n)
@@ -23,7 +23,7 @@ void subtraction()
     int n, k=0;
     double number;
     double subtract=0;
-    cout<<"\n Enter the number of elements you want to Subtract: " ;
+    cout<<"\n How many numbers you want to Subtract: " ;
     cin>>n;
     cout<<"\n Please enter "<<n<<" numbers one by one: ";
     while(k<n)
@@ -47,7 +47,7 @@ void multiplication()
     int n, k=0;
     double number;
     double multiply=1;
-    cout<<"\n Enter the number of elements you want to Multiply:- ";
+    cout<<"\n How many numbers you want to Multiply:- ";
     cin>>n;
     cout<<"\n Please enter "<<n<<" numbers one by one:- ";
     while(k<n)
